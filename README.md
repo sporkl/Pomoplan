@@ -4,4 +4,10 @@ Pomoplan is an application with the goal to make planning easier and more effect
 
 ## How do I use it?
 
-Start it up. Click the "+" button to add tasks, and categorize them based on how soon you want them done-- in a day, week, month, year, or longer/unknown. Also, make sure to chose how long you want to spend on the task. Pomoplan will automatically select a task based on it's priority and other factors, and start a Pomodoro-style timer at the bottom of the screen. You can then do the task. If you complete it, or run out of time, Pomoplan will give you a break then switch tasks.
+1. Start it up
+2. Add a new task by heading to the new tasks tab. Add a title and a priority (how long from now should it be done?).
+3. Repeat step 2 for all tasks you need to remember how to do.
+4. Once done adding tasks, head to the list of tasks, and do them.
+5. When you finish a task, click on it to remove it from the list.
+
+NOTE: Pomoplan is in-development software. How it is used will likely change as it is developed.
